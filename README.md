@@ -1,6 +1,6 @@
 # Flask — Bloco 1: Iniciante
 
-Projeto desenvolvido nas **Aulas 1 a 4** do Curso de Flask — Python para Desenvolvimento Web.
+Projeto desenvolvido nas **Aulas 1 a 4** da Disciplina Técnicas de Programação, Curso de Flask — Python para Desenvolvimento Web.
 
 **Faculdade Santa Marcelina — FASM**  
 Curso de Análise e Desenvolvimento de Sistemas  
@@ -102,4 +102,4 @@ http://localhost:5000
 
 ---
 
-*Curso ministrado por Aldecir Fonseca — FASM Muriaé, MG*
+*Aulas ministrado por Professor Aldecir Fonseca — FASM Muriaé, MG*
